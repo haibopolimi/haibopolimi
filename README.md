@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on Astro
+- 🌱 I’m currently learning NodeJs
+- 💬 Ask me about PHP
 <!--
 **haibopolimi/haibopolimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
